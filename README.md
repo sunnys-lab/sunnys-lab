@@ -5,20 +5,16 @@
 - Github:   https://github.com/sunnys-lab/
 - Homepage: https://www.researchgate.net/profile/Ki-Sun-Lee-2
 
-
-
 ## Profile
-
 -	Multitalented dentist with experience in Artificial Intelligent software development field. 
 -	Demonstrated excellent skills in Python and Google Deep Learning platform (Tensorflow)
 -	Conducting various research projects in the medical field
 -	Published a number of research papers related to medical artificial intelligence. 
 -	True team player with strengths in adaptability and accuracy.
 
-<br>
 ## Skills and Achievements
-•	Dentistry
-•	AI (Deep Learning) software development
+-	Dentistry
+-	AI (Deep Learning) software development
 
 
 <br>
