@@ -74,6 +74,19 @@ Research Project
 
 
 
+🔧 Tech I Have Used
+Langauges
+Python C C++ JAVA JavaScript TypeScript HTML5 CSS3 SASS Shell Postgres MySQL
+
+Libraries & Frameworks
+Docker Nginx Keras PyTorch scikit-learn SciPy TensorFlow OpenCV Django DjangoREST Flask Selenium Node jquery React ReactNative Vue webpack
+
+Skills
+Linux Git GitHub Azure AWS heroku GithubActions Slack Notion Adobe Premiere Pro Adobe Photoshop
+
+
+
+
 
 <br>
 
