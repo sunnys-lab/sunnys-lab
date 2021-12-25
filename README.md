@@ -9,6 +9,7 @@
 
 <br>
 ## Profile
+
 -	Multitalented dentist with experience in Artificial Intelligent software development field. 
 -	Demonstrated excellent skills in Python and Google Deep Learning platform (Tensorflow)
 -	Conducting various research projects in the medical field
