@@ -20,6 +20,7 @@
 •	Dentistry
 •	AI (Deep Learning) software development
 
+
 <br>
 ## Work Experience
 - 2018-03 ~ Current    Clinical Assistant Professor; 
@@ -32,10 +33,8 @@
 1996-03 ~ 1998-06    Lieutenant, ROTC office
                                    Republic of Korea Army, Gwang ju, South Korea
 
-
-
-
-Education
+<br>
+## Education
 
 2017-09 ~ 2020-08    Ph.D - Biomedical Engineering
                                    Seoul National University - Seoul, South Korea
@@ -45,6 +44,11 @@ Education
 
 1992-03 ~ 1996-02    Bachelor of Engineering
                                    Korea University, Seoul, South Korea
+
+
+
+
+
 
 
 
