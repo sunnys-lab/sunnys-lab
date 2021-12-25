@@ -7,8 +7,8 @@
 - Github:   https://github.com/sunnys-lab/
 - Homepage: https://www.researchgate.net/profile/Ki-Sun-Lee-2
 
-<br>
-# Ki-Sun Lee
+
+
 ## Profile
 
 -	Multitalented dentist with experience in Artificial Intelligent software development field. 
