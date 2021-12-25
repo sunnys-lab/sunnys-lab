@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/37030792/136858136-1e917b4f-a833-4a83-a65d-e1926118d39d.png)
-
 # Ki-Sun Lee
 ### Dentist & Programmer ( Specilized Mediacl AI & Deep Learning)
 - Address:  Seoul, South Korea
