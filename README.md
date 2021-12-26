@@ -17,7 +17,6 @@
 -	AI (Deep Learning) software development
 
 
-<br>
 ## Work Experience
 - 2018-03 ~ Current    Clinical Assistant Professor; 
    Korea University Ansan Hospital, An-san, Gyungi do, South Korea
@@ -29,7 +28,6 @@
 1996-03 ~ 1998-06    Lieutenant, ROTC office
                                    Republic of Korea Army, Gwang ju, South Korea
 
-<br>
 ## Education
 
 2017-09 ~ 2020-08    Ph.D - Biomedical Engineering
