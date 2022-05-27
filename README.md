@@ -4,7 +4,8 @@
 - E-mail:   kisuns@gmail.com
 - Github:   https://github.com/sunnys-lab/
 - Homepage: https://www.researchgate.net/profile/Ki-Sun-Lee-2
-
+##
+### 코딩하는 치과의사 (의료인공지능 및 딥러닝 분야)
 
 
 ## Tech Stacks
