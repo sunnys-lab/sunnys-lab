@@ -8,7 +8,8 @@
 
 
 ## Tech Stacks
-<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Keras-F80000?style=for-the-badge&logo=Keras&logoColor=white">
 <img src="https://img.shields.io/badge/Keras-007396?style=for-the-badge&logo=Keras&logoColor=white">
 <img src="https://img.shields.io/badge/Tensorflow-6DB33F?style=for-the-badge&logo=Tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
