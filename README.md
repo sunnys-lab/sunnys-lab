@@ -55,7 +55,7 @@ Docker Nginx Keras PyTorch scikit-learn SciPy TensorFlow OpenCV Django DjangoRES
 Skills
 Linux Git GitHub Azure AWS heroku GithubActions Slack Notion Adobe Premiere Pro Adobe Photoshop
 
-## 
+## Personal Characteristics
 -	Multitalented dentist with experience in Artificial Intelligent software development field. 
 -	Demonstrated excellent skills in Python and Google Deep Learning platform (Tensorflow)
 -	Conducting various research projects in the medical field
