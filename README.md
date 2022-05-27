@@ -7,9 +7,8 @@
 
 
 
-## Skills and Achievements
--	Dentistry
--	AI (Deep Learning) software development
+## Tech Stacks
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
 
 ## Work Experience
