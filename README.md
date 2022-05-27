@@ -8,15 +8,14 @@
 
 
 ## Tech Stacks
-<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Keras-F80000?style=for-the-badge&logo=Keras&logoColor=white">
-<img src="https://img.shields.io/badge/Keras-007396?style=for-the-badge&logo=Keras&logoColor=white">
-<img src="https://img.shields.io/badge/Tensorflow-6DB33F?style=for-the-badge&logo=Tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/Tensorflow-FCC624?style=for-the-badge&logo=Tensorflow&logoColor=black">
+<img src="https://img.shields.io/badge/Pytorch-007396?style=for-the-badge&logo=Pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/oracle-6DB33F?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
