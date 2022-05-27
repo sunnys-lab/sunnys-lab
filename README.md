@@ -33,7 +33,12 @@
 - 2009-05 ~ 2013-02 DDS(Doctor of Dental Surgery) & MDS(Master of Dental Surgery), Chosun University, Gwang ju, South Korea
 - 1992-03 ~ 1996-02 Bachelor of Engineering, Korea University, Seoul, South Korea
 
-## Publication
+## Research Project
+- 2019~Current / Korea Research Foundation / Development of osteoporosis screening technology for panoramic images based on deep learning
+- 2020~2021 / Korea University Medical Center / Development of customized deep learning-based clinical decision support system (CDSS) algorithm
+- 2019~2020 / Korea University Medical Center / Optimal design based on finite element analysis for 3D printing implants and prostheses
+
+## Research Journals
 -	Lee, K.-S.; Lee, E.; Choi, B.; Pyun, S.-B. Automatic Pharyngeal Phase Recognition in Untrimmed Videofluoroscopic Swallowing Study Using Transfer Learning with Deep Convolutional Neural Networks. Diagnostics 2021, 11, 300. https://doi.org/10.3390/diagnostics11020300
 -	Lee, K.-S.; Kim, J.Y.; Jeon, E.-T.; Choi, W.S.; Kim, N.H.; Lee, K.Y. Evaluation of Scalability and Degree of Fine-Tuning of Deep Convolutional Neural Networks for COVID-19 Screening on Chest X-ray Images Using Explainable Deep-Learning Algorithm. J. Pers. Med. 2020, 10, 213. https://doi.org/10.3390/jpm10040213
 -	Lee, K.-S.; Jung, S.-K.; Ryu, J.-J.; Shin, S.-W.; Choi, J.J.J.o.C.M. Evaluation of Transfer Learning with Deep Convolutional Neural Networks for Screening Osteoporosis in Dental Panoramic Radiographs. 2020, 9, 392. https://www.mdpi.com/2077-0383/9/2/392
@@ -48,22 +53,6 @@
 - 2019 NAVER Corp. hosted Open Source Contest Encouragement Award
 - 2018 Korean Associate of Digital Dentistry (KADD) hosted Regular Academic Conference Poster 1st Place
 - 2016 Korea University Medical Center Best Resident Award
-
-## Research Project
-- 2020~2021 / Korea University Medical Center / Development of customized deep learning-based clinical decision support system (CDSS) algorithm
-- 2019~2022 / Korea Research Foundation / Development of osteoporosis screening technology for panoramic images based on deep learning
-- 2019~2020 / Korea University Medical Center / Optimal design based on finite element analysis for 3D printing implants and prostheses
-
-
-🔧 Tech I Have Used
-Langauges
-Python C C++ JAVA JavaScript TypeScript HTML5 CSS3 SASS Shell Postgres MySQL
-
-Libraries & Frameworks
-Docker Nginx Keras PyTorch scikit-learn SciPy TensorFlow OpenCV Django DjangoREST Flask Selenium Node jquery React ReactNative Vue webpack
-
-Skills
-Linux Git GitHub Azure AWS heroku GithubActions Slack Notion Adobe Premiere Pro Adobe Photoshop
 
 ## Personal Characteristics
 -	Multitalented dentist with experience in Artificial Intelligent software development field. 
