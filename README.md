@@ -61,7 +61,7 @@
 -	True team player with strengths in adaptability and accuracy.
 
 
-# Ki-Sun Lee [CV-KOR-Summary]
+# 이기선 [CV-KOR-Summary]
 ### 코딩하는 치과의사 (의료분야 인공지능 및 딥러닝)
 - Address:  Seoul, South Korea
 - E-mail:   kisuns@gmail.com
