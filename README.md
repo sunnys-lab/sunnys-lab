@@ -33,7 +33,8 @@
 - 1992-03 ~ 1996-02 Bachelor of Engineering, Korea University, Seoul, South Korea
 
 ## Research Project
-- 2019~Current / National Research Foundation / Development of osteoporosis screening technology for panoramic images based on deep learning
+- 2022-2025 / National Research Foundation / A deep learning-based dental medical twin system research
+- 2019~2022 / National Research Foundation / Development of osteoporosis screening technology for panoramic images based on deep learning
 - 2020~2021 / Korea University Medical Center / Development of customized deep learning-based clinical decision support system (CDSS) algorithm
 - 2019~2020 / Korea University Medical Center / Optimal design based on finite element analysis for 3D printing implants and prostheses
 
@@ -80,7 +81,8 @@
 - 1992-03 ~ 1996-02 고려대학교 공학박사
 
 ## Research Project (연구프로젝트)
-- 2019~Current / 한국연구재단 / 딥러닝 기반 치과용 파노라마 엑스레이를 이용한 골다공증 스크리닝 기술 개발
+- 2022~2025 / 한국연구재단 / 딥러닝 기반 치과용 메디컬 트윈시스템 개발
+- 2019~2022 / 한국연구재단 / 딥러닝 기반 치과용 파노라마 엑스레이를 이용한 골다공증 스크리닝 기술 개발
 - 2020~2021 / 고려대학교의료원 / 딥러닝 기반 맞춤형 임상의사결정지원시스템(CDSS) 기본 알고리즘 개발
 - 2019~2020 / 고려대학교의료원 / 3D 프린팅 임플란트 및 보철물 유한요소해석 기반 최적설계
 
