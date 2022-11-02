@@ -54,6 +54,9 @@
 - 2018 Korean Associate of Digital Dentistry (KADD) hosted Regular Academic Conference Poster 1st Place
 - 2016 Korea University Medical Center Best Resident Award
 
+## Lecture/Presentation/Seminar
+- Deep Learning-based Medical Image Classification Hands-on / Online Webinar (https://coding-x.com/webinar/15132) / Coding-X (coding-x.com)
+
 ## Personal Characteristics
 -	Multitalented dentist with experience in Artificial Intelligent software development field. 
 -	Demonstrated excellent skills in Python and Google Deep Learning platform (Tensorflow)
@@ -99,9 +102,8 @@
 Updating...
 
 
-## 발표 및 세미나
-
-Updating...
+## 강의/발표/세미나
+- 딥러닝 기반 의료영상 분류 Hands-on / 온라인 웨비나 (https://coding-x.com/webinar/15132) / 코딩엑스(coding-x.com)
 
 
 
